@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/React-app/static/css/main.073c9b0a.css",
-    "main.js": "/React-app/static/js/main.c42abd64.js",
-    "static/js/787.28cb0dcd.chunk.js": "/React-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/React-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/React-app/index.html",
-    "main.073c9b0a.css.map": "/React-app/static/css/main.073c9b0a.css.map",
-    "main.c42abd64.js.map": "/React-app/static/js/main.c42abd64.js.map",
-    "787.28cb0dcd.chunk.js.map": "/React-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/spider/static/css/main.073c9b0a.css",
+    "main.js": "/spider/static/js/main.ae832263.js",
+    "static/js/787.28cb0dcd.chunk.js": "/spider/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/spider/index.html",
+    "main.073c9b0a.css.map": "/spider/static/css/main.073c9b0a.css.map",
+    "main.ae832263.js.map": "/spider/static/js/main.ae832263.js.map",
+    "787.28cb0dcd.chunk.js.map": "/spider/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.c42abd64.js"
+    "static/js/main.ae832263.js"
   ]
 }
